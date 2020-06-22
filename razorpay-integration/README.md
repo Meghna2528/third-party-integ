@@ -5,8 +5,8 @@
 - Edit the key inside index.ftl
 - Add you api_key and api_secret in server.yml file:
 ---------------------------------
-apiKey: your_api_key
-secretKey: your_api_secret
+apiKey: your_key_id
+secretKey: your_secret
 ---------------------------------
 - Build 
 mvn clean install -DskipTests
