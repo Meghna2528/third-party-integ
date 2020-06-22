@@ -9,8 +9,11 @@ apiKey: your_key_id
 secretKey: your_secret
 ---------------------------------
 - Build 
+
 mvn clean install -DskipTests
+
 - Run 
+
 java -jar target/razorpay-java-testapp-1.0-SNAPSHOT.jar server server.yml
 
 Open http://localhost:8080/payment on browser and pay
