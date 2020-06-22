@@ -1,6 +1,6 @@
 ## Razorapay Integration App 
 
-# Steps to run sample app:
+Steps to run sample app:
 
 - Edit the key inside index.ftl
 - Add you api_key and api_secret in server.yml file:
